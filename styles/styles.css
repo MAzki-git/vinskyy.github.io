@@ -220,6 +220,7 @@ section {
 .about-container .right-about .about-item {
   border: 1px solid var(--color-grey-5);
   border-radius: 5px;
+
   transition: all 0.4s ease-in-out;
   box-shadow: 1px 2px 15px rgba(0, 0, 0, 0.1);
 }
@@ -293,7 +294,7 @@ section {
   color: var(--color-grey-2);
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress {
-  width: 100%;
+  width: 90%;
   height: 0.45rem;
   background-color: #e0effa;
   margin-left: 1rem;
@@ -309,22 +310,22 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 70%;
+  width: 65%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 52%;
+  width: 65%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
   width: 10%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
-  width: 20%;
+  width: 40%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 20%;
+  width: 40%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 20%;
+  width: 40%;
 }
 
 .stat-title {
